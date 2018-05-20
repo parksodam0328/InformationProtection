@@ -1,0 +1,6 @@
+C:\Users\민경\Desktop\3606\3606\bin\Debug\3606.exe.config
+C:\Users\민경\Desktop\3606\3606\obj\Debug\3606.csprojResolveAssemblyReference.cache
+C:\Users\민경\Desktop\3606\3606\bin\Debug\3606.exe
+C:\Users\민경\Desktop\3606\3606\bin\Debug\3606.pdb
+C:\Users\민경\Desktop\3606\3606\obj\Debug\3606.exe
+C:\Users\민경\Desktop\3606\3606\obj\Debug\3606.pdb
